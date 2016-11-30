@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		C358FF8D1DEEC2470005528A /* TFHpple.h in Headers */ = {isa = PBXBuildFile; fileRef = C358FF8B1DEEC2470005528A /* TFHpple.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C358FF981DEEC2CD0005528A /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = C358FF931DEEC2CD0005528A /* TFHpple.m */; };
-		C358FF991DEEC2CD0005528A /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C358FF941DEEC2CD0005528A /* TFHppleElement.h */; };
+		C358FF991DEEC2CD0005528A /* TFHppleElement.h in Headers */ = {isa = PBXBuildFile; fileRef = C358FF941DEEC2CD0005528A /* TFHppleElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C358FF9A1DEEC2CD0005528A /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = C358FF951DEEC2CD0005528A /* TFHppleElement.m */; };
 		C358FF9B1DEEC2CD0005528A /* XPathQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = C358FF961DEEC2CD0005528A /* XPathQuery.h */; };
 		C358FF9C1DEEC2CD0005528A /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = C358FF971DEEC2CD0005528A /* XPathQuery.m */; };
@@ -87,8 +87,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C358FF9B1DEEC2CD0005528A /* XPathQuery.h in Headers */,
-				C358FF8D1DEEC2470005528A /* TFHpple.h in Headers */,
 				C358FF991DEEC2CD0005528A /* TFHppleElement.h in Headers */,
+				C358FF8D1DEEC2470005528A /* TFHpple.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
